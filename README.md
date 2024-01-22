@@ -15,7 +15,7 @@ The supported programming language in this course are Python and MATLAB.
 
 ## Submission Guidelines
 
-The written part of homework assignments are submitted via Canvas. You can either scan the written solutions into PDF files or typeset your solutions in Word or LaTEX, then convert/compile into PDF files.
+The written part of homework assignments are submitted via Canvas. You can either scan the written solutions into PDF files or typeset your solutions in Word or LATEX, then convert/compile into PDF files.
 
 The programming part of homework assignments should be submitted separately to Canvas. To submit your work, follow the instructions in each homework and you have to make sure your code has passed all the preliminary tests.
 
