@@ -15,9 +15,9 @@ The supported programming language in this course are Python and MATLAB.
 
 ## Submission Guidelines
 
-The written part of homework assignments are submitted via Canvas.
+The written part of homework assignments are submitted via Canvas. You can either scan the written solutions into PDF files or typeset your solutions in Word or LaTEX, then convert/compile into PDF files.
 
-The programming part of homework assignments are submitted via GitHub. To submit your work, you have to make sure your code has passed all the tests.
+The programming part of homework assignments should be submitted separately to Canvas. To submit your work, follow the instructions in each homework and you have to make sure your code has passed all the preliminary tests.
 
 - For MATLAB users, run the command under the same directory of the homework in MATLAB to check your code:
 
@@ -30,3 +30,13 @@ hw_test
 ```bash
 python hw_test.py
 ```
+
+After passing the tests, you can submit your work either by
+
+- pushing your code to your GitHub repository and submit the public link of the repository to Canvas.
+- creating a zip file of your code and submit it to Canvas.
+
+The programming part of homework assignments will be graded based on the following criteria:
+
+- Correctness: your code should pass all the preliminary tests.
+- Implementation: your code will be tested against different inputs and the running time will be recorded. If your code is not efficient enough, you will possibly lose points.
