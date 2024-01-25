@@ -1,4 +1,4 @@
-# Coding Assignment 2
+# Coding Assignment II: Polynomial Interpolation
 
 ## Problem 1
 

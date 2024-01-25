@@ -1,4 +1,4 @@
-# Coding Assignment 1
+# Coding Assignment I: Floating Point System
 
 ## Problem 1
 

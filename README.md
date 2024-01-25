@@ -11,7 +11,7 @@ This repository contains the material for the course "Introduction to Numerical 
 
 ## Programming Languages
 
-The supported programming language in this course are Python and MATLAB. You can use either one of them to complete the programming assignments. If you are not familiar with Python, you can find a quick tutorial [here](https://docs.python.org/3/tutorial/). If you are not familiar with MATLAB, you can find a quick tutorial [here](https://www.mathworks.com/help/matlab/getting-started-with-matlab.html).
+The supported programming languages in this course are Python and MATLAB. You can use either one of them to complete the programming assignments. If you are not familiar with Python, you can find a quick tutorial [here](https://docs.python.org/3/tutorial/). If you are not familiar with MATLAB, you can find a quick tutorial [here](https://www.mathworks.com/help/matlab/getting-started-with-matlab.html).
 
 ## Submission Guidelines
 
