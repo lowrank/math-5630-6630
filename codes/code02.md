@@ -1,4 +1,4 @@
-# Coding Assignment II: Polynomial Interpolation
+# Coding Assignment II: Root Finding
 
 ## Problem 1
 
